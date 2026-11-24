@@ -1,0 +1,6 @@
+.env
+**/.env
+.claude/logs/
+.claude/settings.local.json
+briefs/
+__pycache__/
